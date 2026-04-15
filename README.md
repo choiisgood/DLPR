@@ -16,9 +16,8 @@
 - **Audio only** — extract MP3 at highest quality
 - **Custom save path** — type any absolute path on your server (e.g. `/media/drive/movies`)
 - **Real-time progress** — live percentage and log output, polled every 1.5 seconds
-- **Secret key auth** — simple password gate so only you can use it
+- **Password auth** — simple password gate so only you can use it
 - **Clipboard auto-fill** — tapping the URL field automatically pastes your clipboard
-- **Dark UI** — mobile-friendly responsive design
 
 ---
 
